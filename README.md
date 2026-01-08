@@ -1,32 +1,12 @@
-# Deep Learning Chatbot using TF-IDF and Encoder 🤖
+# Chatbot Intent Classifier (TF-IDF + Keras)
 
-A smart conversational AI chatbot built with **TF-IDF vectorization** and an **encoder model** to understand user input and generate context-aware responses. Designed for learning NLP and practical AI applications.
+## Files
+- `chatbot_intent_classification.csv`  -> your dataset (must contain columns: user_input,intent)
+- `train_model.py`  -> train and save model + artifacts
+- `evaluate.py`     -> evaluate and save confusion matrix
+- `app.py`          -> streamlit app to chat
+- `intents_responses.json` -> responses for each intent (en/ar)
+- `requirements.txt`
 
----
-
-## Features
-
-- **TF-IDF** for converting text into numerical features  
-- **Encoder model** for understanding intents and context  
-- **Human-like responses** generation  
-- Easily extendable to new conversation topics and domains  
-- Lightweight and fast for experimentation
-
----
-
-## Tech Stack
-
-- **Python**  
-- **TensorFlow** / PyTorch (for deep learning models)  
-- **NLTK** / spaCy (for text preprocessing)  
-- JSON or database for storing intents and responses  
-
----
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/your-chatbot-repo.git
-cd your-chatbot-repo
+## Usage
+1. Install deps:

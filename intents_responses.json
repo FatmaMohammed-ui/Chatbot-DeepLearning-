@@ -1,0 +1,111 @@
+{
+  "account_help": {
+    "en": [
+      "Sure! I can help you with your account. What seems to be the problem?",
+      "I'd be happy to assist you with your account. Please tell me more."
+    ],
+    "ar": [
+      "أكيد! ممكن أساعدك في حسابك. تحب أساعدك في إيه بالضبط؟",
+      "أنا هنا لمساعدتك بخصوص حسابك، وضّحيلي المشكلة لو سمحتي."
+    ]
+  },
+
+  "business_hours": {
+    "en": [
+      "Our working hours are from 9 AM to 5 PM, Sunday to Thursday.",
+      "We are open every day from 9 in the morning until 5 in the evening."
+    ],
+    "ar": [
+      "مواعيد العمل من الساعة 9 صباحًا إلى 5 مساءً، من الأحد إلى الخميس.",
+      "نحن متاحون يوميًا من 9 الصبح لحد 5 العصر."
+    ]
+  },
+
+  "cancellation": {
+    "en": [
+      "I'm sorry to see you go. You can cancel your subscription from your account settings.",
+      "To cancel your subscription, please go to your account and select the cancellation option."
+    ],
+    "ar": [
+      "نأسف لرحيلك. يمكنك إلغاء الاشتراك من إعدادات الحساب.",
+      "لإلغاء الاشتراك، توجهي إلى حسابك واختاري خيار الإلغاء."
+    ]
+  },
+
+  "order_status": {
+    "en": [
+      "You can track your order status from the Orders section in your account.",
+      "Please check your order status by logging into your account."
+    ],
+    "ar": [
+      "يمكنك متابعة حالة الطلب من قسم الطلبات داخل حسابك.",
+      "من فضلك راجعي حالة طلبك من خلال حسابك."
+    ]
+  },
+
+  "password_reset": {
+    "en": [
+      "You can reset your password by clicking on 'Forgot Password' on the login page.",
+      "To reset your password, please follow the password recovery steps on the login screen."
+    ],
+    "ar": [
+      "يمكنك إعادة تعيين كلمة المرور من خلال اختيار «نسيت كلمة المرور» في صفحة تسجيل الدخول.",
+      "لإعادة تعيين كلمة المرور، اتبعي خطوات استعادة كلمة المرور من صفحة الدخول."
+    ]
+  },
+
+  "payment_update": {
+    "en": [
+      "You can update your payment method from the billing section in your account.",
+      "To change your payment details, go to your account settings and select Billing."
+    ],
+    "ar": [
+      "يمكنك تحديث طريقة الدفع من قسم الفواتير داخل حسابك.",
+      "لتغيير بيانات الدفع، ادخلي على إعدادات الحساب ثم الفواتير."
+    ]
+  },
+
+  "return_request": {
+    "en": [
+      "You can request a return from the Orders section in your account.",
+      "To return an item, please submit a return request through your account."
+    ],
+    "ar": [
+      "يمكنك طلب إرجاع المنتج من قسم الطلبات في حسابك.",
+      "لإرجاع منتج، قدّمي طلب إرجاع من خلال حسابك."
+    ]
+  },
+
+  "service_info": {
+    "en": [
+      "We offer a variety of services including account management, online orders, and customer support.",
+      "Our services include secure payments, order tracking, and customer assistance."
+    ],
+    "ar": [
+      "نقدّم مجموعة من الخدمات مثل إدارة الحسابات، الطلبات الإلكترونية، ودعم العملاء.",
+      "خدماتنا تشمل الدفع الآمن، تتبع الطلبات، ودعم العملاء."
+    ]
+  },
+
+  "technical_support": {
+    "en": [
+      "I'm here to help with technical issues. Please describe the problem you're facing.",
+      "For technical support, let me know what issue you're experiencing."
+    ],
+    "ar": [
+      "أنا هنا للمساعدة في أي مشكلة تقنية. وضّحيلي المشكلة من فضلك.",
+      "للدعم الفني، قوليلي المشكلة اللي بتقابلك."
+    ]
+  },
+
+  "fallback": {
+    "en": [
+      "Sorry, I didn't quite understand that. Could you please rephrase?",
+      "I'm not sure I understood you. Can you try asking in a different way?"
+    ],
+    "ar": [
+      "معلش، مش فاهمة قصدك كويس. ممكن توضحي أكتر؟",
+      "مش متأكدة إني فهمتك صح، ممكن تعيدي السؤال بطريقة تانية؟"
+    ]
+  }
+}
